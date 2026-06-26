@@ -110,12 +110,17 @@ header p {
     border-radius: 20px;
 }
 @media (max-width: 600px) {
+
   .site-header {
     padding: 10px;
   }
 
   .header-banner {
     border-radius: 12px;
+  }
+
+  .collection-nav-banner {
+    width: 140px;
   }
 
   .collection-section {
@@ -129,11 +134,6 @@ header p {
 
   .collection-grid {
     grid-template-columns: repeat(3, 1fr);
-    @media (max-width: 420px) {
-  .collection-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
     gap: 12px;
   }
 
@@ -155,6 +155,18 @@ header p {
     padding: 10px 12px;
     font-size: 0.85rem;
   }
+}
+
+@media (max-width: 420px) {
+
+  .collection-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .collection-nav-banner {
+    width: 120px;
+  }
+
 }
 .collection-nav {
     max-width: 1400px;
