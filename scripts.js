@@ -92,6 +92,7 @@ const designs = [
 ];
 
 const grid = document.getElementById("designGrid");
+const collectionNav = document.getElementById("collectionNav");
 
 const groupedCollections = {};
 
