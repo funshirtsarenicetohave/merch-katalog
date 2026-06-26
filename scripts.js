@@ -116,6 +116,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0CGVRL4L1?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=441da295ff6a1c63fc5765a158976001&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Cosmic Pyramid",
+  collection: "Psychedelic",
+  image: "images/pyramide-two.png",
+  amazonDE: "https://www.amazon.de/dp/B0D3HZYTVW?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=229cadcd709cf3e63dd68c4358ad1af8&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 ];
 
