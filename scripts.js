@@ -139,10 +139,16 @@ Object.keys(groupedCollections).forEach(function(collectionName) {
   const collectionGrid = document.createElement("div");
   collectionGrid.className = "collection-grid";
 
-  const visibleDesigns =
-    (typeof currentCollection === "undefined")
-      ? groupedCollections[collectionName].slice(0, 4)
-      : groupedCollections[collectionName];
+  let maxDesigns = 4;
+
+if (window.innerWidth <= 600) {
+  maxDesigns = 3;
+}
+
+const visibleDesigns =
+  (typeof currentCollection === "undefined")
+    ? groupedCollections[collectionName].slice(0, maxDesigns)
+    : groupedCollections[collectionName];
 
   visibleDesigns.forEach(function(design) {
     const card = document.createElement("div");
