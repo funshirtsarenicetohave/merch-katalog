@@ -63,3 +63,4 @@ Object.keys(collections).forEach(collectionName => {
   });
 
   grid.appendChild(section);
+});
