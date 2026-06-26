@@ -104,6 +104,22 @@ designs.forEach(function(design) {
 groupedCollections[design.collection].push(design);
 });
 
+if (collectionNav) {
+  Object.keys(collections).forEach(function(collectionName) {
+
+    const link = document.createElement("a");
+    link.href = "#" + collectionName.toLowerCase().replaceAll(" ", "-");
+
+    const img = document.createElement("img");
+    img.src = collections[collectionName].thumbnail;
+    img.alt = collectionName;
+    img.className = "collection-nav-banner";
+
+    link.appendChild(img);
+    collectionNav.appendChild(link);
+  });
+}
+
 Object.keys(groupedCollections).forEach(function(collectionName) {
   if (typeof currentCollection !== "undefined" && collectionName !== currentCollection) {
   return;
