@@ -92,7 +92,15 @@ const designs = [
     amazonDE: "https://www.amazon.de/Grumpykoala-Koalab%C3%A4r-niedlich-grummeliger-T-Shirt/dp/B0DGHQMNBP?dib=eyJ2IjoiMSJ9.sLe9upBRy3fNIBMCmyngd4CeCtK8ThzIy_8lJYx0ZdgPZ8AM4ge_p5W2vwOPDqDdnUw8mTz0Pzl-y3W2LSAVDK0OYyYlvAeoreMZ-dCgcxSbPXPhPt_yJaofWmSTagE59VzZIojq12TpiFckBUugqVoY4pLxpPh9oe3EJyvMDsF8E1L-SkGWeMpASbQm99OIjPufoTJQST6WouU3peO0mlWW5iT5f16x14GUWNpyP1NUUDzbHRwt9O069Ex_uhA2tM1u3z_IZdKxbkwOyLZimHSLfhqHP_qJWeMZ27vLv4Y.H9h8UYBXWkqIBbcNjPZWFVTQ4NNkfv9YobUp6KZbww0&dib_tag=se&qid=1782490993&refinements=p_4%3AGrumpy%2Bbut%2BCute%2Bgrumpy%2Banimals%2Bcollection%2Bd.b.A.i.&s=apparel&sr=1-36&customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=279793a8106dbcfa34b3768096d8a30a&ref_=as_li_ss_tl",
     amazonUS: "#",
     amazonUK: "#"
-  }
+  },
+{
+  title: "Pyramide",
+  collection: "Psychedelic",
+  image: "images/pyramide-onde.png",
+  amazonDE: "https://www.amazon.de/dp/B0CK2TC6WF?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=899d97a7a4ff05897a3a502027b742d5&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+}
 
 ];
 
