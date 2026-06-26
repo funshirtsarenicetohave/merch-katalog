@@ -48,7 +48,7 @@ designs.forEach(function(design) {
 
 groupedCollections[design.collection].push(design);
 
-Object.keys(collections).forEach(function(collectionName) {
+Object.keys(groupedCollections).forEach(function(collectionName) {
   const section = document.createElement("section");
   section.className = "collection-section";
 
