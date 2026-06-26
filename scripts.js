@@ -174,5 +174,16 @@ if (collections[collectionName]?.banner) {
 
 section.appendChild(description);
 section.appendChild(collectionGrid);
+
+if (typeof currentCollection === "undefined") {
+  const exploreButton = document.createElement("a");
+  exploreButton.className = "explore-button";
+  exploreButton.href =
+    collectionName.toLowerCase().replaceAll(" ", "-") + ".html";
+  exploreButton.textContent = "Explore Collection →";
+
+  section.appendChild(exploreButton);
+}
+
 grid.appendChild(section);
 });
