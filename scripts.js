@@ -100,7 +100,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0CK2TC6WF?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=899d97a7a4ff05897a3a502027b742d5&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
-}
+},
+{
+  title: "Colorful Monkey",
+  collection: "Psychedelic",
+  image: "images/bunter-affe.png",
+  amazonDE: "https://www.amazon.de/dp/B0D2G4HX8N?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a582af60f2bef59a1d227da17a119dd2&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+} 
 
 ];
 
