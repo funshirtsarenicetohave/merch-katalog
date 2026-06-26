@@ -194,3 +194,23 @@ header p {
     transform: translateY(-4px) scale(1.02);
     box-shadow: 0 10px 25px rgba(0,0,0,.35);
 }
+.explore-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+
+    background: #ffffff;
+    color: #111;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    border-radius: 999px;
+
+    transition: all .25s ease;
+}
+
+.explore-button:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
