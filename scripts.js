@@ -1,6 +1,6 @@
 const collections = {
   "Grumpy Animals": {
-    banner: "images/banners/grumpy-animals.jpg",
+    banner: "images/banners/grumpy-animals.png",
     description: "Funny grumpy characters with a permanently bad mood."
   },
 
