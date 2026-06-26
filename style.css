@@ -87,6 +87,8 @@ header p {
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    max-width: calc(4 * 180px + 3 * 20px);
+    margin: 0 auto;
 }
 
 .collection-banner {
