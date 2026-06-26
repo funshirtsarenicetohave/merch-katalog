@@ -78,6 +78,7 @@ groupedCollections[collectionName].forEach(function(design) {
   });
 
   section.appendChild(heading);
+  section.appendChild(description);
   section.appendChild(collectionGrid);
   grid.appendChild(section);
 });
