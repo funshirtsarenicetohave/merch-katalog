@@ -5,7 +5,7 @@ const collections = {
   },
 
   "Unmotivated Animals": {
-    banner: "images/banners/unmotivated-animals.jpg",
+    banner: "images/banners/unmotivated-animals.png",
     description: "Cute animals that would rather do absolutely nothing."
   }
 };
