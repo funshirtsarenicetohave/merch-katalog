@@ -55,6 +55,11 @@ Object.keys(groupedCollections).forEach(function(collectionName) {
   const heading = document.createElement("h2");
   heading.className = "collection-heading";
   heading.textContent = collectionName;
+  
+  const description = document.createElement("p");
+  description.className = "collection-description";
+  description.textContent =
+  collections[collectionName]?.description || "";
 
   const collectionGrid = document.createElement("div");
   collectionGrid.className = "collection-grid";
