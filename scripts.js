@@ -139,9 +139,11 @@ Object.keys(groupedCollections).forEach(function(collectionName) {
   const collectionGrid = document.createElement("div");
   collectionGrid.className = "collection-grid";
 
-  let maxDesigns = 4;
+let maxDesigns = 4;
 
-if (window.innerWidth <= 600) {
+if (window.innerWidth <= 480) {
+  maxDesigns = 2;
+} else if (window.innerWidth <= 900) {
   maxDesigns = 3;
 }
 
