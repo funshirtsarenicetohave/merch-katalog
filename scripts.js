@@ -27,16 +27,39 @@ const designs = [
 
 const grid = document.getElementById("designGrid");
 
-designs.forEach(design => {
-  const card = document.createElement("div");
-  card.className = "card";
+const collections = {};
 
-  card.innerHTML = `
-    <img src="${design.image}" alt="${design.title}">
-    <h2>${design.title}</h2>
-    <p>${design.collection}</p>
-    <a class="button" href="${design.amazonDE}" target="_blank">🇩🇪 Auf Amazon.de ansehen</a>
+designs.forEach(design => {
+  if (!collections[design.collection]) {
+    collections[design.collection] = [];
+  }
+
+  collections[design.collection].push(design);
+});
+
+Object.keys(collections).forEach(collectionName => {
+  const section = document.createElement("section");
+  section.className = "collection-section";
+
+  section.innerHTML = `
+    <h2 class="collection-heading">${collectionName}</h2>
+    <div class="collection-grid"></div>
   `;
 
-  grid.appendChild(card);
-});
+  const collectionGrid = section.querySelector(".collection-grid");
+
+  collections[collectionName].forEach(design => {
+    const card = document.createElement("div");
+    card.className = "card";
+
+    card.innerHTML = `
+      <img src="${design.image}" alt="${design.title}">
+      <h2>${design.title}</h2>
+      <p>${design.collection}</p>
+      <a class="button" href="${design.amazonDE}" target="_blank">🇩🇪 Auf Amazon.de ansehen</a>
+    `;
+
+    collectionGrid.appendChild(card);
+  });
+
+  grid.appendChild(section);
