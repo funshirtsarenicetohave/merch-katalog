@@ -144,7 +144,7 @@ let maxDesigns = 4;
 if (window.innerWidth <= 480) {
   maxDesigns = 2;
 } else if (window.innerWidth <= 900) {
-  maxDesigns = 3;
+  maxDesigns = 4;
 }
 
 const visibleDesigns =
