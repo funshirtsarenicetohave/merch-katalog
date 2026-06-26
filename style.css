@@ -151,3 +151,46 @@ header p {
     font-size: 0.85rem;
   }
 }
+.collection-nav {
+    max-width: 1400px;
+    margin: 20px auto 40px;
+    padding: 0 20px;
+
+    display: flex;
+    gap: 20px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scroll-behavior: smooth;
+}
+
+.collection-nav::-webkit-scrollbar {
+    height: 8px;
+}
+
+.collection-nav::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 999px;
+}
+
+.collection-nav a {
+    flex: 0 0 auto;
+    text-decoration: none;
+}
+
+.collection-nav-banner {
+    width: 260px;
+    height: auto;
+    display: block;
+
+    border-radius: 18px;
+    border: 1px solid #333;
+
+    transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.collection-nav-banner:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 10px 25px rgba(0,0,0,.35);
+}
