@@ -92,3 +92,15 @@ header p {
     margin: 15px 0 20px;
     border: 1px solid #333;
 }
+.site-header {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header-banner {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 20px;
+}
