@@ -79,7 +79,16 @@ groupedCollections[collectionName].forEach(function(design) {
   });
 
   section.appendChild(heading);
-  section.appendChild(description);
-  section.appendChild(collectionGrid);
-  grid.appendChild(section);
+
+if (collections[collectionName]?.banner) {
+  const banner = document.createElement("img");
+  banner.className = "collection-banner";
+  banner.src = collections[collectionName].banner;
+  banner.alt = collectionName + " banner";
+  section.appendChild(banner);
+}
+
+section.appendChild(description);
+section.appendChild(collectionGrid);
+grid.appendChild(section);
 });
