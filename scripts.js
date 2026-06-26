@@ -86,11 +86,16 @@ groupedCollections[collectionName].forEach(function(design) {
   section.appendChild(heading);
 
 if (collections[collectionName]?.banner) {
+  const bannerLink = document.createElement("a");
+  bannerLink.href = collectionName.toLowerCase().replaceAll(" ", "-") + ".html";
+
   const banner = document.createElement("img");
   banner.className = "collection-banner";
   banner.src = collections[collectionName].banner;
   banner.alt = collectionName + " banner";
-  section.appendChild(banner);
+
+  bannerLink.appendChild(banner);
+  section.appendChild(bannerLink);
 }
 
 section.appendChild(description);
