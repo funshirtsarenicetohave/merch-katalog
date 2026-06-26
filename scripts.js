@@ -96,7 +96,7 @@ const designs = [
 {
   title: "Pyramide",
   collection: "Psychedelic",
-  image: "images/pyramide-onde.png",
+  image: "images/pyramide-one.png",
   amazonDE: "https://www.amazon.de/dp/B0CK2TC6WF?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=899d97a7a4ff05897a3a502027b742d5&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
