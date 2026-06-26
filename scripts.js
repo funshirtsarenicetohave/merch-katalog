@@ -59,7 +59,7 @@ Object.keys(groupedCollections).forEach(function(collectionName) {
   const collectionGrid = document.createElement("div");
   collectionGrid.className = "collection-grid";
 
-  collections[collectionName].forEach(function(design) {
+groupedCollections[collectionName].forEach(function(design) {
     const card = document.createElement("div");
     card.className = "card";
 
