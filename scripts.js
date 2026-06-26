@@ -7,7 +7,7 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
-{
+ {
     title: "Grumpy Panda",
     collection: "Unmotivated Animals",
     image: "images/grumpy-panda.png",
@@ -15,7 +15,7 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
-{
+ {
     title: "Grumpy Corn",
     collection: "Grumpy Animals",
     image: "images/grumpy-corn.png",
