@@ -6,6 +6,15 @@ const designs = [
     amazonDE: "#",
     amazonUS: "#",
     amazonUK: "#"
+  },
+
+  {
+    title: "Grumpy Corn",
+    collection: "Grumpy Animals",
+    image: "images/grumpy-corn.png",
+    amazonDE: "https://amzn.to/43ToGke",
+    amazonUS: "#",
+    amazonUK: "#"
   }
 ];
 
