@@ -9,7 +9,7 @@ const collections = {
     banner: "images/banners/unmotivated-animals.png",
     thumbnail: "images/banners/unmotivated-animals.png",
     description: "Cute animals that would rather do absolutely nothing."
-  }
+}
 };
 
 const designs = [
@@ -36,7 +36,24 @@ const designs = [
     amazonDE: "https://www.amazon.de/Grumpycorn-Einhorn-Grumpy-Spa%C3%9F-T-Shirt/dp/B0CNBF7KNL",
     amazonUS: "#",
     amazonUK: "#"
-  }
+  },
+
+  {
+  title: "Grumpy Hippo",
+  collection: "Grumpy Animals",
+  image: "images/grumpy-hippo.png",
+  amazonDE: "https://www.amazon.de/Grumpyhippo-Nielpferd-niedlich-grummeliges-T-Shirt/dp/B0DGL5GYMV?dib=eyJ2IjoiMSJ9.sLe9upBRy3fNIBMCmyngd4CeCtK8ThzIy_8lJYx0ZdgPZ8AM4ge_p5W2vwOPDqDdnUw8mTz0Pzl-y3W2LSAVDK0OYyYlvAeoreMZ-dCgcxSbPXPhPt_yJaofWmSTagE59VzZIojq12TpiFckBUugqVoY4pLxpPh9oe3EJyvMDsF8E1L-SkGWeMpASbQm99OIjPufoTJQST6WouU3peO0mlWW5iT5f16x14GUWNpyP1NUUDzbHRwt9O069Ex_uhA2tM1u3z_IZdKxbkwOyLZimHSLfhqHP_qJWeMZ27vLv4Y.oXVJfRFbheBNbEKEuSIi9c5A2pPaUnapfySrxsvnqKU&dib_tag=se&qid=1782489407&refinements=p_4%3AGrumpy%2Bbut%2BCute%2Bgrumpy%2Banimals%2Bcollection%2Bd.b.A.i.&s=apparel&sr=1-27&customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=583a7b44655b5f40904c38c352dcfd81&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
+{
+  title: "Grumpy Rhino",
+  collection: "Grumpy Animals",
+  image: "images/grumpy-rhino.png",
+  amazonDE: "https://www.amazon.de/Grumpyrhino-Nashorn-niedlich-grummeliger-Rhinozeros/dp/B0DGHRH7L1?dib=eyJ2IjoiMSJ9.sLe9upBRy3fNIBMCmyngd4CeCtK8ThzIy_8lJYx0ZdgPZ8AM4ge_p5W2vwOPDqDdnUw8mTz0Pzl-y3W2LSAVDK0OYyYlvAeoreMZ-dCgcxSbPXPhPt_yJaofWmSTagE59VzZIojq12TpiFckBUugqVoY4pLxpPh9oe3EJyvMDsF8E1L-SkGWeMpASbQm99OIjPufoTJQST6WouU3peO0mlWW5iT5f16x14GUWNpyP1NUUDzbHRwt9O069Ex_uhA2tM1u3z_IZdKxbkwOyLZimHSLfhqHP_qJWeMZ27vLv4Y.H9h8UYBXWkqIBbcNjPZWFVTQ4NNkfv9YobUp6KZbww0&dib_tag=se&qid=1782489508&refinements=p_4%3AGrumpy%2Bbut%2BCute%2Bgrumpy%2Banimals%2Bcollection%2Bd.b.A.i.&s=apparel&sr=1-35&customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=cf8589ab5eb184a817c69cec8550dbd1&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+}
 ];
 
 const grid = document.getElementById("designGrid");
