@@ -108,7 +108,7 @@ if (collectionNav) {
   Object.keys(collections).forEach(function(collectionName) {
 
     const link = document.createElement("a");
-    link.href = "#" + collectionName.toLowerCase().replaceAll(" ", "-");
+    link.href = collectionName.toLowerCase().replaceAll(" ", "-") + ".html";
 
     const img = document.createElement("img");
     img.src = collections[collectionName].thumbnail;
