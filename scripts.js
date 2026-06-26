@@ -15,7 +15,7 @@ const designs = [
     title: "Treasure Hunter",
     collection: "Unmotivated Animals",
     image: "images/treasure-hunter.png",
-    amazonDE: "#",
+    amazonDE: "https://www.amazon.de/dp/B0H6QC77FM?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=d42281b38ff1ac3f220c367f0d5a2ea5&ref_=as_li_ss_tl",
     amazonUS: "#",
     amazonUK: "#"
   },
