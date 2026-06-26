@@ -9,6 +9,11 @@ const collections = {
     banner: "images/banners/unmotivated-animals.png",
     thumbnail: "images/banners/unmotivated-animals.png",
     description: "Cute animals that would rather do absolutely nothing."
+},
+  "Psychedelic": {
+    banner: "images/banners/psychedelic.png",
+    thumbnail: "images/banners/psychedelic.png",
+    description: "Colorful, trippy and psychedelic cartoon designs full of vibrant imagination."
 }
 };
 
