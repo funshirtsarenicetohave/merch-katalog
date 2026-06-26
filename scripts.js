@@ -180,7 +180,8 @@ if (typeof currentCollection === "undefined") {
   exploreButton.className = "explore-button";
   exploreButton.href =
     collectionName.toLowerCase().replaceAll(" ", "-") + ".html";
-  exploreButton.textContent = "Explore Collection →";
+  exploreButton.textContent =
+  "Explore " + groupedCollections[collectionName].length + " Designs →";
 
   section.appendChild(exploreButton);
 }
