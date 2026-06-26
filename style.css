@@ -34,6 +34,11 @@ header p {
   padding: 18px;
   text-align: center;
   border: 1px solid #333;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
 }
 
 .card img {
