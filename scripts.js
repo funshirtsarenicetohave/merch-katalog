@@ -52,7 +52,7 @@ groupedCollections[design.collection].push(design);
 Object.keys(groupedCollections).forEach(function(collectionName) {
   const section = document.createElement("section");
   section.className = "collection-section";
-
+  section.id = collectionName.toLowerCase().replaceAll(" ", "-");
   const heading = document.createElement("h2");
   heading.className = "collection-heading";
   heading.textContent = collectionName;
