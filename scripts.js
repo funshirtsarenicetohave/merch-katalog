@@ -52,6 +52,9 @@ groupedCollections[design.collection].push(design);
 });
 
 Object.keys(groupedCollections).forEach(function(collectionName) {
+  if (typeof currentCollection !== "undefined" && collectionName !== currentCollection) {
+  return;
+}
   const section = document.createElement("section");
   section.className = "collection-section";
   section.id = collectionName.toLowerCase().replaceAll(" ", "-");
