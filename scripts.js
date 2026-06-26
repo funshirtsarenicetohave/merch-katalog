@@ -94,7 +94,7 @@ const designs = [
     amazonUK: "#"
   },
 {
-  title: "Pyramide",
+  title: "Psychedelic Pyramide",
   collection: "Psychedelic",
   image: "images/pyramide-one.png",
   amazonDE: "https://www.amazon.de/dp/B0CK2TC6WF?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=899d97a7a4ff05897a3a502027b742d5&ref_=as_li_ss_tl",
@@ -118,7 +118,7 @@ const designs = [
   amazonUK: "#"
 },
 {
-  title: "Psychedelic Pyramid",
+  title: "Weed Pyramid",
   collection: "Psychedelic",
   image: "images/pyramide-two.png",
   amazonDE: "https://www.amazon.de/dp/B0D3HZYTVW?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=229cadcd709cf3e63dd68c4358ad1af8&ref_=as_li_ss_tl",
