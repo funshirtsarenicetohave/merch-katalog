@@ -1,3 +1,15 @@
+const collections = {
+  "Grumpy Animals": {
+    banner: "images/banners/grumpy-animals.jpg",
+    description: "Funny grumpy characters with a permanently bad mood."
+  },
+
+  "Unmotivated Animals": {
+    banner: "images/banners/unmotivated-animals.jpg",
+    description: "Cute animals that would rather do absolutely nothing."
+  }
+};
+
 const designs = [
   {
     title: "Treasure Hunter",
