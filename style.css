@@ -104,3 +104,45 @@ header p {
     display: block;
     border-radius: 20px;
 }
+@media (max-width: 600px) {
+  .site-header {
+    padding: 10px;
+  }
+
+  .header-banner {
+    border-radius: 12px;
+  }
+
+  .collection-section {
+    margin: 28px auto;
+    padding: 0 12px;
+  }
+
+  .collection-heading {
+    font-size: 1.3rem;
+  }
+
+  .collection-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .card {
+    padding: 12px;
+    border-radius: 14px;
+  }
+
+  .card img {
+    max-height: 180px;
+    padding: 8px;
+  }
+
+  .card h2 {
+    font-size: 1rem;
+  }
+
+  .button {
+    padding: 10px 12px;
+    font-size: 0.85rem;
+  }
+}
