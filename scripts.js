@@ -39,7 +39,7 @@ const designs = [
 
 const grid = document.getElementById("designGrid");
 
-const collections = {};
+const groupedCollections = {};
 
 designs.forEach(function(design) {
   if (!collections[design.collection]) {
