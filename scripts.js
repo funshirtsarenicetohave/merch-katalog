@@ -108,8 +108,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0D2G4HX8N?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a582af60f2bef59a1d227da17a119dd2&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
-} 
-
+}, 
+{
+  title: "Colorful Cat",
+  collection: "Psychedelic",
+  image: "images/bunte-katze.png",
+  amazonDE: "https://www.amazon.de/dp/B0CGVRL4L1?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=441da295ff6a1c63fc5765a158976001&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+}
 ];
 
 const grid = document.getElementById("designGrid");
