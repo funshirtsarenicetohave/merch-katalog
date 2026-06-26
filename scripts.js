@@ -1,11 +1,13 @@
 const collections = {
   "Grumpy Animals": {
-    banner: "images/banners/grumpy-animals.png",
-    description: "Funny grumpy characters with a permanently bad mood."
-  },
+  banner: "images/banners/grumpy-animals.png",
+  thumbnail: "images/banners/grumpy-animals.png",
+  description: "Funny grumpy characters with a permanently bad mood."
+},
 
   "Unmotivated Animals": {
     banner: "images/banners/unmotivated-animals.png",
+    thumbnail: "images/banners/unmotivated-animals.png",
     description: "Cute animals that would rather do absolutely nothing."
   }
 };
