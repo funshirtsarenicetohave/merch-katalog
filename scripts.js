@@ -42,12 +42,11 @@ const grid = document.getElementById("designGrid");
 const groupedCollections = {};
 
 designs.forEach(function(design) {
-  if (!collections[design.collection]) {
-    collections[design.collection] = [];
-  }
+  if (!groupedCollections[design.collection]) {
+  groupedCollections[design.collection] = [];
+}
 
-  collections[design.collection].push(design);
-});
+groupedCollections[design.collection].push(design);
 
 Object.keys(collections).forEach(function(collectionName) {
   const section = document.createElement("section");
