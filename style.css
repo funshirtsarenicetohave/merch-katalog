@@ -55,7 +55,8 @@ header p {
   background: #2a2a2a;
   border-radius: 14px;
   padding: 10px;
-  margin-bottom: 15px;
+  margin: 0 auto 15px;
+  display: block;
 }
 
 .card h2 {
