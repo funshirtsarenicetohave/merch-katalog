@@ -133,6 +133,14 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
+{
+  title: "Magical Mushrooms",
+  collection: "Psychedelic",
+  image: "images/bunte-pilze.png",
+  amazonDE: "https://www.amazon.de/dp/B0D29V4TGR?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a0176df0301f3db60da79900de2bbedb&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+}
 ];
 
 const grid = document.getElementById("designGrid");
