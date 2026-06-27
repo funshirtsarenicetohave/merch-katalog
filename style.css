@@ -256,3 +256,13 @@ header p {
 .site-footer a:hover {
   text-decoration: underline;
 }
+.legal-page {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+  line-height: 1.7;
+}
+
+.legal-page h1 {
+  margin-bottom: 25px;
+}
