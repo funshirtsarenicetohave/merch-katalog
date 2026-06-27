@@ -15,7 +15,7 @@ const collections = {
     thumbnail: "images/banners/psychedelic.png",
     description: "Colorful, trippy and psychedelic cartoon designs full of vibrant imagination."
 },
-  "Vintage Retro": {
+  "Retro": {
     banner: "images/banners/banner-retro.png",
     thumbnail: "images/banners/banner-retro.png",
     description: "Colorful, vintage and retro designs full of vintage vibes."
