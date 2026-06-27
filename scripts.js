@@ -177,8 +177,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0DF7M88R1?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=9fec115c1a3ebce772e488ba1aea55a8&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Must Go",
+  collection: "Retro",
+  image: "images/must-go.png",
+  amazonDE: "https://www.amazon.de/dp/B0H68BMTNL?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=beef39585fdf380a03aa608d0f9a51dc&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
-
 
 ];
 
