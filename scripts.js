@@ -261,13 +261,13 @@ const visibleDesigns =
     const card = document.createElement("div");
     card.className = "card";
 
-    card.innerHTML =
-      '<div class="image-box"><img src="' + design.image + '" alt="' + design.title + '"></div>' +
-      '<h2>' + design.title + '</h2>' +
-      '<p>' + design.collection + '</p>' +
-      '<a class="button" href="' + design.amazonDE + '" target="_blank">🇩🇪 Auf Amazon.de ansehen</a>';
-
-    collectionGrid.appendChild(card);
+card.innerHTML =
+  '<div class="image-box"><img src="' + design.image + '" alt="' + design.title + '"></div>' +
+  '<h2>' + design.title + '</h2>' +
+  '<div class="card-footer">' +
+    '<p>' + design.collection + '</p>' +
+    '<a class="button" href="' + design.amazonDE + '" target="_blank">🇩🇪 Auf Amazon.de ansehen</a>' +
+  '</div>';
   });
 
   section.appendChild(heading);
