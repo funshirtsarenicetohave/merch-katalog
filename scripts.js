@@ -148,7 +148,16 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0CQKDXJYZ?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=6adc09f56f80a4d81508a2f94f373bc5&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Colorful Ape",
+  collection: "Psychedelic",
+  image: "images/colorful-ape.png",
+  amazonDE: "https://www.amazon.de/dp/B0D2FWYZVW?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=5bccfd8afa82888c85f38a622b38b888&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
+
 ];
 
 const grid = document.getElementById("designGrid");
