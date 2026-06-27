@@ -124,7 +124,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0D3HZYTVW?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=229cadcd709cf3e63dd68c4358ad1af8&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
-}
+},
+{
+  title: "Colorful Woman",
+  collection: "Psychedelic",
+  image: "images/colorful-woman.png",
+  amazonDE: "https://www.amazon.de/dp/B0D29VMH51?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=97919bf3d2bc922055b31851cd9e7edc&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
 ];
 
 const grid = document.getElementById("designGrid");
