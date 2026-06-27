@@ -224,3 +224,35 @@ header p {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+.site-footer {
+  margin-top: 60px;
+  padding: 30px 20px;
+  text-align: center;
+  background: #0b0b0b;
+  border-top: 1px solid #333;
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+.site-footer p {
+  max-width: 800px;
+  margin: 0 auto 15px;
+  line-height: 1.5;
+}
+
+.site-footer nav {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.site-footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
