@@ -66,20 +66,16 @@ header p {
   margin-bottom: 15px;
 }
 .button {
-  margin-top: auto;
-  align-self: center;
-}
-.button {
   display: inline-block;
-  margin-top: 10px;
+  margin-top: auto;
   padding: 12px 20px;
   border-radius: 999px;
   background: white;
   color: #111;
   text-decoration: none;
   font-weight: bold;
+  align-self: center;
 }
-
 .collection-section {
   width: 100%;
   max-width: 1100px;
