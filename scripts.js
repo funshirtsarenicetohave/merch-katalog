@@ -185,8 +185,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0H68BMTNL?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=beef39585fdf380a03aa608d0f9a51dc&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Wander",
+  collection: "Retro",
+  image: "images/who-wander.png",
+  amazonDE: "https://www.amazon.de/dp/B0H63X67SH?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=93905f3079e0532a9cf25b2e17d4e86f&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
-
 ];
 
 const grid = document.getElementById("designGrid");
