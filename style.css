@@ -35,6 +35,10 @@ header p {
   text-align: center;
   border: 1px solid #333;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 420px;
 }
 
 .card:hover {
