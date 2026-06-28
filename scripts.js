@@ -238,6 +238,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0DCC21G86?_encoding=UTF8&customizationToken=MC_Assembly_1%23B07537SGL9&customId=B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=f7b62fa92292052d63a3115fc31dede4&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Avocado",
+  collection: "Summer Vibes",
+  image: "images/avocado.png",
+  amazonDE: "https://www.amazon.de/dp/B0DC5C4GQV?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=afacf0eedb0404991ecd144376dcee60&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 ];
 
