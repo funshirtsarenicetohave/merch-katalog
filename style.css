@@ -281,4 +281,26 @@ header p {
   margin-bottom: 25px;
 }
 
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  margin: 40px 0 20px;
+}
+
+.social-links a {
+  transition: transform .25s ease;
+}
+
+.social-links a:hover {
+  transform: translateY(-3px) scale(1.08);
+}
+
+.social-links img {
+  width: 42px;
+  height: 42px;
+  display: block;
+}
+
 }
