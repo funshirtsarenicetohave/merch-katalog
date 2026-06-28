@@ -117,15 +117,15 @@ header p {
 }
 
 .site-header {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 20px;
+  width: min(96vw, 1500px);
+  margin: 20px auto 30px;
+  box-sizing: border-box;
 }
 
 .header-banner {
+  display: block;
   width: 100%;
   height: auto;
-  display: block;
   border-radius: 20px;
 }
 
