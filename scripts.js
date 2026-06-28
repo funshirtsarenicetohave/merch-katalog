@@ -31,6 +31,14 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
+    {
+    title: "Lazy Axelotl",
+    collection: "Unmotivated Animals",
+    image: "images/lazy-axelotl.png",
+    amazonDE: "https://www.amazon.de/dp/B0H6SSWRBK?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=ebc7b236d750c7f17869576919abc630&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
   {
     title: "Grumpy Panda",
     collection: "Grumpy Animals",
