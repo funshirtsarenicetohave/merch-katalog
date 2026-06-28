@@ -192,6 +192,14 @@ const designs = [
   amazonUK: "#"
 },
 {
+  title: "Vintage Pyramide",
+  collection: "Retro",
+  image: "images/vint-pyr.png",
+  amazonDE: "https://www.amazon.de/dp/B0DCTKRM39?_encoding=UTF8&customizationToken=MC_Assembly_1%23B07537SGL9&customId=B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=7c574986d358fb8b80a71c1c1c542ce2&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
+{
   title: "Vintage Logo",
   collection: "Retro",
   image: "images/vintage-one.png",
