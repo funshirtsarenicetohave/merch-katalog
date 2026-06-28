@@ -206,6 +206,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0H63X67SH?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=93905f3079e0532a9cf25b2e17d4e86f&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Erdbeere",
+  collection: "Summer Vibes",
+  image: "images/splach-berry.png",
+  amazonDE: "https://www.amazon.de/dp/B0DBV7PYR1?_encoding=UTF8&customizationToken=MC_Assembly_1%23B07537SGL9&customId=B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=4916c89f81f432271062021b0fde6cc1&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 ];
 
