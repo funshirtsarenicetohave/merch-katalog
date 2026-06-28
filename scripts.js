@@ -214,6 +214,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0DBV7PYR1?_encoding=UTF8&customizationToken=MC_Assembly_1%23B07537SGL9&customId=B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=4916c89f81f432271062021b0fde6cc1&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Ananas",
+  collection: "Summer Vibes",
+  image: "images/anannas-sun.png",
+  amazonDE: "https://www.amazon.de/dp/B0DTKDQWY2?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=d35b417b2df79bd43ffb33dca3c3e4a2&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 ];
 
