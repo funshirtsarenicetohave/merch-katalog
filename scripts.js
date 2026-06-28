@@ -20,10 +20,10 @@ const collections = {
     thumbnail: "images/banners/banner-retro.png",
     description: "Colorful, vintage and retro designs full of vintage vibes."
 },
-  "Summer": {
-  banner: "images/banners/vibes-banner.png",
-  thumbnail: "images/banners/vibes-banner.png",
-  description: "Funny designes with a permanently summer vibes and good mood."
+  "Summer Vibes": {
+    banner: "images/banners/vibes-banner.png",
+    thumbnail: "images/banners/vibes-banner.png",
+    description: "Funny designs with permanent summer vibes and good mood."
 }
 };
 
