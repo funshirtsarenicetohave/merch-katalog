@@ -302,5 +302,26 @@ header p {
   height: 42px;
   display: block;
 }
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  margin: 0 0 25px;
+}
 
+.social-links a {
+  display: inline-flex;
+  transition: transform .25s ease;
+}
+
+.social-links a:hover {
+  transform: scale(1.12);
+}
+
+.social-links img {
+  width: 42px;
+  height: 42px;
+  display: block;
+}
 }
