@@ -216,6 +216,14 @@ const designs = [
   amazonUK: "#"
 },
 {
+  title: "Retro Car",
+  collection: "Retro",
+  image: "images/retro-car.png",
+  amazonDE: "https://www.amazon.de/dp/B0DFC5S47W?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=8ffea13719ac1e6258d5f18b4b0bf6fb&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
+{
   title: "Erdbeere",
   collection: "Summer Vibes",
   image: "images/splach-berry.png",
