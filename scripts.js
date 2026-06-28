@@ -262,6 +262,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0DCBMYBHH?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=465a4aa064bf3b96f1e18c4609a39bda&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Brokkoli",
+  collection: "Summer Vibes",
+  image: "images/brokkoli.png",
+  amazonDE: "https://www.amazon.de/dp/B0DBYZZFG8?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=17d7d9ff8e63569988aa3e74dbcd2e6b&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 ];
 
