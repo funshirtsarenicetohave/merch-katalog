@@ -24,6 +24,11 @@ const collections = {
     banner: "images/banners/vibes-banner.png",
     thumbnail: "images/banners/vibes-banner.png",
     description: "Funny designs with permanent summer vibes and good mood."
+},
+  "Unicorns": {
+    banner: "images/banners/unicorn-banner.png",
+    thumbnail: "images/banners/unicorn-banner.png",
+    description: "Funny designs with different unicorns in a good mood and good vibes."
 }
 };
 
