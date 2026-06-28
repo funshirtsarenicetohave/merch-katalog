@@ -44,6 +44,14 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
+    {
+    title: "Lazy Vat",
+    collection: "Unmotivated Animals",
+    image: "images/emo-cat.png",
+    amazonDE: "https://www.amazon.de/dp/B0H6TXVJFP?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=fd5eb9d167c6f47e1c3647af5e341133&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
   {
     title: "Grumpy Panda",
     collection: "Grumpy Animals",
