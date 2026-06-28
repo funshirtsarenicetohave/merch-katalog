@@ -22,7 +22,7 @@ const collections = {
 },
   "Summer": {
   banner: "images/banners/vibes-banner.png",
-  thumbnail: "images/banners/ibes-banner.png",
+  thumbnail: "images/banners/vibes-banner.png",
   description: "Funny designes with a permanently summer vibes and good mood."
 }
 };
