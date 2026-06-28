@@ -295,7 +295,7 @@ header p {
   align-items: center;
   width: 56px;
   height: 56px;
-  background: #fff;
+  background: white;
   border-radius: 50%;
   transition: all .25s ease;
 }
