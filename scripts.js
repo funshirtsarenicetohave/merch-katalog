@@ -19,6 +19,11 @@ const collections = {
     banner: "images/banners/banner-retro.png",
     thumbnail: "images/banners/banner-retro.png",
     description: "Colorful, vintage and retro designs full of vintage vibes."
+},
+  "Summer": {
+  banner: "images/banners/vibes-banner.png",
+  thumbnail: "images/banners/ibes-banner.png",
+  description: "Funny designes with a permanently summer vibes and good mood."
 }
 };
 
