@@ -286,42 +286,28 @@ header p {
   justify-content: center;
   align-items: center;
   gap: 22px;
-  margin: 40px 0 20px;
+  margin: 35px 0 25px;
 }
 
 .social-links a {
-  transition: transform .25s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 56px;
+  height: 56px;
+  background: #fff;
+  border-radius: 50%;
+  transition: all .25s ease;
 }
 
 .social-links a:hover {
   transform: translateY(-3px) scale(1.08);
+  box-shadow: 0 6px 20px rgba(255,255,255,.25);
 }
 
 .social-links img {
-  width: 42px;
-  height: 42px;
+  width: 28px;
+  height: 28px;
   display: block;
 }
-.social-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 22px;
-  margin: 0 0 25px;
-}
 
-.social-links a {
-  display: inline-flex;
-  transition: transform .25s ease;
-}
-
-.social-links a:hover {
-  transform: scale(1.12);
-}
-
-.social-links img {
-  width: 42px;
-  height: 42px;
-  display: block;
-}
-}
