@@ -316,11 +316,19 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
-    {
+  {
   title: "Unicorn ich hasse Menschen",
   collection: "Unicorns",
   image: "images/unicorn-ihm.png",
   amazonDE: "https://www.amazon.de/dp/B0DFX8431J?_encoding=UTF8&customizationToken=MC_Assembly_1%23B07537SGL9&customId=B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a63c9a721137844ade5b99e771042460&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
+  {
+  title: "Chubbie Unicorn",
+  collection: "Unicorns",
+  image: "images/chubbie-corn.png",
+  amazonDE: "https://www.amazon.de/dp/B0D6RRVLSH?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=679628b9611df482b1ba71011f8becaf&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
 }
