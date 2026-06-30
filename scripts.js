@@ -34,6 +34,22 @@ const collections = {
 
 const designs = [
   {
+    title: "Faultier zu Müde",
+    collection: "Unmotivated Animals",
+    image: "images/sloth-card.png",
+    amazonDE: "https://www.amazon.de/dp/B0H71MQ7LV?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=9190f1e600b6c3c03e68cc9fab4124fb&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
+    {
+    title: "Hamster on Snacks",
+    collection: "Unmotivated Animals",
+    image: "images/hamster-card.png",
+    amazonDE: "https://www.amazon.de/dp/B0H71QY11R?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=4bdb67fc9dd096595e596247c69b3abe&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
+    {
     title: "Treasure Hunter",
     collection: "Unmotivated Animals",
     image: "images/treasure-hunter.png",
@@ -49,7 +65,7 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
-      {
+    {
     title: "Lazy Capibara",
     collection: "Unmotivated Animals",
     image: "images/napper-card.png",
