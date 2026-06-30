@@ -49,6 +49,14 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
+      {
+    title: "Lazy Capibara",
+    collection: "Unmotivated Animals",
+    image: "images/napper-card.png",
+    amazonDE: "https://www.amazon.de/dp/B0H6WWM66W?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=2add6c2e95e1285d85f3f84f8668c458&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
     {
     title: "Lazy Cat",
     collection: "Unmotivated Animals",
