@@ -30,7 +30,6 @@ const collections = {
     thumbnail: "images/banners/unicorn-banner.png",
     description: "Funny designs with different unicorns in a good mood and good vibes."
 },
-},
   "Fun": {
     banner: "images/banners/fun-banner.png",
     thumbnail: "images/banners/fun-banner.png",
