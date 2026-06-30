@@ -171,7 +171,15 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0D2G4HX8N?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a582af60f2bef59a1d227da17a119dd2&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
-}, 
+},
+{
+  title: "Colorful Skull",
+  collection: "Psychedelic",
+  image: "images/color-skull.png",
+  amazonDE: "https://www.amazon.de/dp/B0CWS2LQKC?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=59a0508c381c064036904f0b4021b454&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
 {
   title: "Colorful Cat",
   collection: "Psychedelic",
