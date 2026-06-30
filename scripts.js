@@ -392,7 +392,16 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0D6RMQ2YN?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=f11c6db2f483a26d2ce2ed45813909db&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+  {
+  title: "I ❤️ Only Fans",
+  collection: "Fun",
+  image: "images/only-fans.png",
+  amazonDE: "https://www.amazon.de/dp/B0CK9CLP17?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=9c18423a4b4f8adf6801b75f41a453bb&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
+
 
 ];
 
