@@ -433,8 +433,14 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
-
-
+{
+  title: "Biergetarier",
+  collection: "Fun",
+  image: "images/bier.png",
+  amazonDE: "https://www.amazon.de/dp/B0CL13Y9L5?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=ae547f66175ff23ad36bd2d361769e58&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+}
 
 ];
 
