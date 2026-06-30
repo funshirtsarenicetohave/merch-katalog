@@ -400,6 +400,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0CK9CLP17?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=9c18423a4b4f8adf6801b75f41a453bb&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+  {
+  title: "Namaste Mother****",
+  collection: "Fun",
+  image: "images/namaste.png",
+  amazonDE: "https://www.amazon.de/dp/B0CQGNBRK4?customId=B075386ZX4&customizationToken=MC_Assembly_1%23B075386ZX4&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=8ae5abeaeddb76a1238079cdc1e1bff5&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 
 
