@@ -425,6 +425,15 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
+{
+  title: "Rhino Unicorn",
+  collection: "Fun",
+  image: "images/chubbie-rhino.png",
+  amazonDE: "https://www.amazon.de/dp/B0CLHW5C1N?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=be1f1d491098d9c8871092083ed41887&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
+
 
 
 ];
