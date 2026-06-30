@@ -448,6 +448,14 @@ const designs = [
   amazonDE: "https://www.amazon.de/dp/B0CL13Y9L5?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=ae547f66175ff23ad36bd2d361769e58&ref_=as_li_ss_tl",
   amazonUS: "#",
   amazonUK: "#"
+},
+{
+  title: "Cat Woman",
+  collection: "Fun",
+  image: "images/catwoman.png",
+  amazonDE: "https://www.amazon.de/dp/B0CQHZXHWC?customId=B075386ZX4&customizationToken=MC_Assembly_1%23B075386ZX4&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=a6e8efde176037bec3e6c7955ef4d183&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
 }
 
 ];
