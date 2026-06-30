@@ -153,7 +153,7 @@ const designs = [
   collection: "Psychedelic",
   image: "images/colorful-herz.png",
   amazonDE: "https://www.amazon.de/dp/B0DXZSY75P?customId=B07537SGL9&customizationToken=MC_Assembly_1%23B07537SGL9&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=c6146ca5214c9032781c58940de1a8d9&ref_=as_li_ss_tl",
-  amazonUS: "#",
+  amazonUS: "https://www.amazon.com/dp/B0DXZVHTNT?customId=B0752XJYNL&customizationToken=MC_Assembly_1%23B0752XJYNL&th=1&psc=1&linkCode=ll2&tag=jorgfischer-20&linkId=f0455ee4fc06d45da1381bdb166f7392&language=en_US&ref_=as_li_ss_tl",
   amazonUK: "#"
 },
 {
