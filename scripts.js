@@ -417,6 +417,14 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
+  {
+  title: "Reptilians",
+  collection: "Fun",
+  image: "images/reptil.png",
+  amazonDE: "https://www.amazon.de/dp/B0CNBVG9TS?customId=B075386ZX4&customizationToken=MC_Assembly_1%23B075386ZX4&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=ce5d56e7a0fbc1b6e8c4b940853d5d79&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
 
 
 ];
