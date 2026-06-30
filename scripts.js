@@ -425,6 +425,14 @@ const designs = [
   amazonUS: "#",
   amazonUK: "#"
 },
+ {
+  title: "Pothead",
+  collection: "Fun",
+  image: "images/pot-head.png",
+  amazonDE: "https://www.amazon.de/dp/B0DKD5PC83?customId=B07538P3NF&customizationToken=MC_Assembly_1%23B07538P3NF&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=f600503134461c14ea71d0d0b7544a2e&ref_=as_li_ss_tl",
+  amazonUS: "#",
+  amazonUK: "#"
+},
 {
   title: "Rhino Unicorn",
   collection: "Fun",
