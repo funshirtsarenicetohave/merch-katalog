@@ -97,6 +97,14 @@ const designs = [
     amazonUS: "#",
     amazonUK: "#"
   },
+  {
+    title: "Grumpy Dragon",
+    collection: "Grumpy Animals",
+    image: "images/grumpy-dragon.png",
+    amazonDE: "https://www.amazon.de/dp/B0CR8LMQX5?customId=B07537YF1C&customizationToken=MC_Assembly_1%23B07537YF1C&th=1&psc=1&linkCode=ll2&tag=jfischer-21&linkId=e38be80a20ffd52f5dc1ac896fc45521&ref_=as_li_ss_tl",
+    amazonUS: "#",
+    amazonUK: "#"
+  },
 
   {
   title: "Grumpy Hippo",
